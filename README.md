@@ -14,7 +14,7 @@
 
 ## Goal
 
-Visually match the image in the “screenshots” folder and create the interaction shown in the linked video.
+Visually match the images in the “screenshots” folder and create the interaction shown in the linked video.
 
-- [Final screenshot in the “screenshots” folder.](screenshots/index.jpg)
+- [Final screenshots in the “screenshots” folder.](screenshots)
 - [**Watch this video to see how it interacts.**](https://youtu.be/iIA8aCOifMs)
