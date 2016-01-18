@@ -1,2 +1,20 @@
-# image-tabs
-Making an image carousel using CSS :target.
+# Image tabs
+
+- Approx. completion time: **1 hour**
+- Deliverables: **1 HTML file, 1 CSS file, images**
+
+---
+
+**Practice using CSS `:target` by making image tabs.**
+
+- Clicking each of the circle buttons on the page should display a single image on the screen.
+- No images need to be shown when the page first loads if there isn’t a hash in the URL.
+
+---
+
+## Goal
+
+Visually match the image in the “screenshots” folder and create the interaction shown in the linked video.
+
+- [Final screenshot in the “screenshots” folder.](screenshots/index.jpg)
+- [**Watch this video to see how it interacts.**](https://youtu.be/iIA8aCOifMs)
