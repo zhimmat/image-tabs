@@ -8,7 +8,7 @@
 **Practice using CSS `:target` by making image tabs.**
 
 - Clicking each of the circle buttons on the page should display a single image on the screen.
-- No images need to be shown when the page first loads if there isn’t a hash in the URL.
+- No images should be shown when the page first loads if there isn’t a hash in the URL.
 
 ---
 
