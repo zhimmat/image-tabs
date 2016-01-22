@@ -16,3 +16,45 @@ html {
 *, *::before, *::after {
   box-sizing: inherit;
 }
+
+.tabs{
+  margin-top: 55%;
+  border-radius: 10px;
+  text-align: center;
+}
+
+.tabs a{
+  display: inline-block;
+  background-color: #fff;
+  border: solid grey 5px;
+  color: grey;
+  text-decoration: none;
+  transition: all 200ms linear;
+  position: relative;
+}
+
+.tabs a:hover {
+  background-color: grey;
+  color: #fff;
+}
+
+.tabs li{
+  display: inline-block;
+}
+
+.circle {
+  width: 20px;
+  border-radius: 50px;
+  height: 20px;
+}
+
+.img-flex {
+  position: absolute;
+  display: none;
+  top: 0;
+  width: 100%;
+}
+
+.img-flex:target{
+display: block;
+}
