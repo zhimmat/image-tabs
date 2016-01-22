@@ -17,13 +17,13 @@ html {
   box-sizing: inherit;
 }
 
-.tabs{
+.tabs {
   margin-top: 55%;
   border-radius: 10px;
   text-align: center;
 }
 
-.tabs a{
+.tabs a {
   display: inline-block;
   background-color: #fff;
   border: solid grey 5px;
@@ -38,7 +38,7 @@ html {
   color: #fff;
 }
 
-.tabs li{
+.tabs li {
   display: inline-block;
 }
 
@@ -55,6 +55,6 @@ html {
   width: 100%;
 }
 
-.img-flex:target{
-display: block;
+.img-flex:target {
+  display: block;
 }
